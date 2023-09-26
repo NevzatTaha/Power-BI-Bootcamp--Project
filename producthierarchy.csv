@@ -13,12 +13,12 @@ P0011,Dreams Cup Cake - Choco (Elite),Cream Biscuits & Wafers,9 x 22 x 15,Snacks
 P0012,Layer Cake - Chocolate (Winkies),Muffins & Cup Cakes,10 x 20 x 12.3,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0013,Layer Cake - Orange (Winkies),Tea Cakes & Slice Cakes,7.1 x 27.5 x 13.7,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0014,Sugar Coated Chocolate (Cadbury Gems),Tea Cakes & Slice Cakes,32.5 x 6 x 33,"Bakery, Cakes & Dairy || Cakes & Pastries"
-P0015,Cadbury Perk - Chocolate Bar (Cadbury),Chocolates,10 x 33 x 10,Snacks & Branded Foods || Chocolates & Candies
-P0016,Polo - The Mint With The Hole (Nestle ),Chocolates,2 x 18 x 8,Snacks & Branded Foods || Chocolates & Candies
-P0017,Orbit Sugar-Free Chewing Gum - Lemon & Lime (Wrigleys),"Toffee, Candy & Lollypop",8 x 28 x 8,Snacks & Branded Foods || Chocolates & Candies
-P0018,Sugar Free Chewing Gum - Mixed Fruit (Orbit),Mints & Chewing Gum,1 x 14 x 11,Snacks & Branded Foods || Chocolates & Candies
-P0019,Chewing Gum - Peppermint (Doublemint),Mints & Chewing Gum,1.5 x 42 x 32,Snacks & Branded Foods || Chocolates & Candies
-P0020,"Tomato - Local, Organically Grown (Fresho)",Mints & Chewing Gum,5 x 28 x 16,Snacks & Branded Foods || Chocolates & Candies
+P0015,Cadbury Perk - Chocolate Bar (Cadbury),Chocolates,10 x 33 x 10,Snacks & Sweets Foods || Chocolates & Candies
+P0016,Polo - The Mint With The Hole (Nestle ),Chocolates,2 x 18 x 8,Snacks & Sweets Foods || Chocolates & Candies
+P0017,Orbit Sugar-Free Chewing Gum - Lemon & Lime (Wrigleys),"Toffee, Candy & Lollypop",8 x 28 x 8,Snacks & Sweets Foods || Chocolates & Candies
+P0018,Sugar Free Chewing Gum - Mixed Fruit (Orbit),Mints & Chewing Gum,1 x 14 x 11,Snacks & Sweets Foods || Chocolates & Candies
+P0019,Chewing Gum - Peppermint (Doublemint),Mints & Chewing Gum,1.5 x 42 x 32,Snacks & Sweets Foods || Chocolates & Candies
+P0020,"Tomato - Local, Organically Grown (Fresho)",Mints & Chewing Gum,5 x 28 x 16,Snacks & Sweets Foods || Chocolates & Candies
 P0021,"Tomato - Local, Organically Grown (Fresho)",Organic Vegetables,8 x 26 x 23,Fruits & Vegetables || Fresh Vegetables
 P0022,Marie Light Biscuits - Active (Sunfeast),Organic Vegetables,5.7 x 18.6 x 10.1,Fruits & Vegetables || Organic Fruits & Vegetables
 P0023,Fulltoss Thai Sriracha (Parle),Breakfast & Snack Mixes,1 x 1 x 1,Snacks & Branded Foods || Ready To Cook & Eat
@@ -36,11 +36,11 @@ P0035,"Tomato - Hybrid, Organically Grown (Fresho)",Detergent Bars,3 x 17 x 12.5
 P0036,"Tomato - Hybrid, Organically Grown (Fresho)",Organic Vegetables,6 x 20 x 10,Fruits & Vegetables || Fresh Vegetables
 P0037,Crackers - Cheese & Sugar (Gery Gone Mad),Organic Vegetables,3.5 x 10.5 x 3.5,Fruits & Vegetables || Organic Fruits & Vegetables
 P0038,Munch Crisp-Pop Chocolate Coated Crunchy Wafer (Nestle ),Crackers & Digestive,5 x 21.5 x 5,Gourmet & World Food || Chocolates & Biscuits
-P0039,Herbal Apple Massage Cream (Olivia),Chocolates,11.5 x 28 x 27,Snacks & Branded Foods || Chocolates & Candies
+P0039,Herbal Apple Massage Cream (Olivia),Chocolates,11.5 x 28 x 27,Snacks & Sweets Foods || Chocolates & Candies
 P0040,Milk Shakti Biscuits - With The Goodness Of Milk (Parle),Body Care,7 x 26.5 x 7,Beauty & Hygiene || Skin Care
 P0041,Roll Yo! Strawberry Swiss Roll (Britannia),Glucose & Milk Biscuits,5 x 28 x 16,Snacks & Branded Foods || Biscuits & Cookies
 P0042,"Mint - Sugarfree, Fruity Flavour (Center Fresh)",Tea Cakes & Slice Cakes,1 x 16 x 10,"Bakery, Cakes & Dairy || Cakes & Pastries"
-P0043,Tomato - Local (Fresho),"Toffee, Candy & Lollypop",3.5 x 23 x 32,Snacks & Branded Foods || Chocolates & Candies
+P0043,Tomato - Local (Fresho),"Toffee, Candy & Lollypop",3.5 x 23 x 32,Snacks & Sweets Foods || Chocolates & Candies
 P0044,Mint Leaves (Fresho),"Potato, Onion & Tomato",1 x 10 x 5,Fruits & Vegetables || Fresh Vegetables
 P0045,Fruit Salt - Lemon Flavor (Eno ),Leafy Vegetables,3 x 17 x 12.5,Fruits & Vegetables || Fresh Vegetables
 P0046,Instant Popcorn - BBQ (4700BC),Everyday Medicine,1.7 x 11.1 x 9.6,Beauty & Hygiene || Health & Medicine
@@ -92,14 +92,14 @@ P0093,Spyroll (Bauli),Tea Cakes & Slice Cakes,7 x 18 x 7,"Bakery, Cakes & Dairy 
 P0094,Roll - Swiss Single (Dream Bake),Tea Cakes & Slice Cakes,3.8 x 14.3 x 3.8,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0095,Choco Layer Cake (Britannia),Tea Cakes & Slice Cakes,40 x 100 x 50,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0096,Gems - Sugar Coated Chocolate (Cadbury),Tea Cakes & Slice Cakes,3.4 x 14.5 x 4.4,"Bakery, Cakes & Dairy || Cakes & Pastries"
-P0097,Shots (Cadbury Dairy Milk),Chocolates,1 x 19.2 x 9,Snacks & Branded Foods || Chocolates & Candies
-P0098,Chewing Gum - Peppermint (Doublemint),Chocolates,4 x 16 x 12.5,Snacks & Branded Foods || Chocolates & Candies
-P0099,Xtra Peppermint Flavour - Chewing Gum Stick (Center Fresh),Mints & Chewing Gum,3 x 11.3 x 10,Snacks & Branded Foods || Chocolates & Candies
-P0100,Chewing Gum Stick - Fruits Flavour (Center Fruit),Mints & Chewing Gum,2 x 27 x 21,Snacks & Branded Foods || Chocolates & Candies
-P0101,Jellicious - Jelimals (Candyman),Mints & Chewing Gum,4.5 x 17.6 x 4.5,Snacks & Branded Foods || Chocolates & Candies
-P0102,Breath Mint - The Mint With The Hole (Polo),"Toffee, Candy & Lollypop",7 x 27 x 40,Snacks & Branded Foods || Chocolates & Candies
-P0103,White Chocolate Bar (Nestle ),"Toffee, Candy & Lollypop",9 x 30 x 9,Snacks & Branded Foods || Chocolates & Candies
-P0104,Sunrise Coffee (Nescafe ),Chocolates,3 x 20 x 11,Snacks & Branded Foods || Chocolates & Candies
+P0097,Shots (Cadbury Dairy Milk),Chocolates,1 x 19.2 x 9,Snacks & Sweets Foods || Chocolates & Candies
+P0098,Chewing Gum - Peppermint (Doublemint),Chocolates,4 x 16 x 12.5,Snacks & Sweets Foods || Chocolates & Candies
+P0099,Xtra Peppermint Flavour - Chewing Gum Stick (Center Fresh),Mints & Chewing Gum,3 x 11.3 x 10,Snacks & Sweets Foods || Chocolates & Candies
+P0100,Chewing Gum Stick - Fruits Flavour (Center Fruit),Mints & Chewing Gum,2 x 27 x 21,Snacks & Sweets Foods || Chocolates & Candies
+P0101,Jellicious - Jelimals (Candyman),Mints & Chewing Gum,4.5 x 17.6 x 4.5,Snacks & Sweets Foods || Chocolates & Candies
+P0102,Breath Mint - The Mint With The Hole (Polo),"Toffee, Candy & Lollypop",7 x 27 x 40,Snacks & Sweets Foods || Chocolates & Candies
+P0103,White Chocolate Bar (Nestle ),"Toffee, Candy & Lollypop",9 x 30 x 9,Snacks & Sweets Foods || Chocolates & Candies
+P0104,Sunrise Coffee (Nescafe ),Chocolates,3 x 20 x 11,Snacks & Sweets Foods || Chocolates & Candies
 P0105,Traditional Filter Coffee Decoction (iD),Instant Coffee,11 x 13 x 16,Beverages || Coffee
 P0108,"Coffee - Premix, Instant (Narasus)",Instant Coffee,10 x 25 x 32,Beverages || Coffee
 P0109,"Brinjal - Varikatri, Organically Grown (Fresho)",Instant Coffee,7 x 18 x 11,Beverages || Coffee
@@ -183,7 +183,7 @@ P0190,Colocasia - Organically Grown (Fresho),Leafy Vegetables,6 x 19 x 14,Fruits
 P0192,Colocasia - Organically Grown (Fresho),Organic Vegetables,15 x 15 x 40,Fruits & Vegetables || Fresh Vegetables
 P0193,Organic Garlic Powder - Dehydrated (bb Royal),Organic Vegetables,6 x 3 x 6,Fruits & Vegetables || Organic Fruits & Vegetables
 P0194,Orange Chewy Dragees (Mentos),Organic Masalas & Spices,6 x 7 x 9,"Foodgrains, Oil & Masala || Organic Staples"
-P0195,Moonfils Orange (Bauli),"Toffee, Candy & Lollypop",6.5 x 7.5 x 12,Snacks & Branded Foods || Chocolates & Candies
+P0195,Moonfils Orange (Bauli),"Toffee, Candy & Lollypop",6.5 x 7.5 x 12,Snacks & Sweets Foods || Chocolates & Candies
 P0196,Beetroot (Fresho),"Croissants, Bagels",5 x 23 x 20,"Bakery, Cakes & Dairy || Gourmet Breads"
 P0197,Basale Leaf (Fresho),Root Vegetables,6 x 18 x 10,Fruits & Vegetables || Fresh Vegetables
 P0198,Pain Relief Cream (Moov),Leafy Vegetables,1 x 16 x 3,Fruits & Vegetables || Fresh Vegetables
@@ -225,7 +225,7 @@ P0234,Nacho Crisps - Tomato Mexicana (Cornitos),Nachos & Chips,10.9 x 35.1 x 23.
 P0235,Nacho Crisps - Cheese & Herbs (Cornitos),Nachos & Chips,15 x 31.2 x 11.8,"Gourmet & World Food || Snacks, Dry Fruits, Nuts"
 P0237,Nacho Crisps - Barbeque (Cornitos),Nachos & Chips,24 x 77 x 2,"Gourmet & World Food || Snacks, Dry Fruits, Nuts"
 P0238,Chewy Candy Stick - Strawberry Flavour (Mentos),Nachos & Chips,6 x 20 x 6,"Gourmet & World Food || Snacks, Dry Fruits, Nuts"
-P0239,Chalk Cockroach Killer (HIT),Mints & Chewing Gum,4 x 18 x 14,Snacks & Branded Foods || Chocolates & Candies
+P0239,Chalk Cockroach Killer (HIT),Mints & Chewing Gum,4 x 18 x 14,Snacks & Sweets Foods || Chocolates & Candies
 P0240,Capsicum - Green (Fresho),Insect Repellent,9.4 x 14 x 8,Cleaning & Household || Fresheners & Repellents
 P0241,Beans - Cluster (Fresho),Cucumber & Capsicum,5 x 13.8 x 5,Fruits & Vegetables || Fresh Vegetables
 P0242,Brinjal - Varikatri (Fresho),"Beans, Brinjals & Okra",4.3 x 17.5 x 4.3,Fruits & Vegetables || Fresh Vegetables
@@ -261,8 +261,8 @@ P0275,Gobbles Orange Bites Cake (Britannia),Tea Cakes & Slice Cakes,3 x 3 x 12,
 P0276,Milk Cake (Britannia),Tea Cakes & Slice Cakes,5 x 20.2 x 8,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0277,Moonfils Veg - Strawberry (Bauli),Tea Cakes & Slice Cakes,6.7 x 24 x 7.5,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0278,Kitkat 2 Fingers (Nestle ),Tea Cakes & Slice Cakes,1 x 1 x 1,"Bakery, Cakes & Dairy || Cakes & Pastries"
-P0279,Chewy Candy Stick - Mint Flavour (Mentos),Chocolates,5.2 x 15 x 7.3,Snacks & Branded Foods || Chocolates & Candies
-P0280,Marigold Flower - Yellow (Fresho),"Toffee, Candy & Lollypop",6 x 19 x 13,Snacks & Branded Foods || Chocolates & Candies
+P0279,Chewy Candy Stick - Mint Flavour (Mentos),Chocolates,5.2 x 15 x 7.3,Snacks & Sweets Foods || Chocolates & Candies
+P0280,Marigold Flower - Yellow (Fresho),"Toffee, Candy & Lollypop",6 x 19 x 13,Snacks & Sweets Foods || Chocolates & Candies
 P0281,Bottle Gourd (Fresho),Marigold,6 x 19 x 6,"Fruits & Vegetables || Flower Bouquets, Bunches"
 P0282,Ash Gourd - Cut (Fresho),"Gourd, Pumpkin, Drumstick",10 x 11 x 11,Fruits & Vegetables || Fresh Vegetables
 P0283,Baby Corn - Unpeeled (Fresho),Cut & Peeled Veggies,1.5 x 12 x 17,Fruits & Vegetables || Fresh Vegetables
@@ -313,9 +313,9 @@ P0333,Baby Corn - Unpeeled (Fresho),Coffee & Pre-Mix,7.5 x 21 x 10.5,Gourmet & W
 P0334,7 O Clock - Ready Ii Disposable Razor (Gillette),Exotic Vegetables,6 x 20 x 6,Fruits & Vegetables || Exotic Fruits & Veggies
 P0335,Sweet Potato (Fresho),Shaving Care,4.1 x 11 x 4.1,Beauty & Hygiene || Men's Grooming
 P0336,Gold Caramel Candy Stick (ALPENLIEBE),"Potato, Onion & Tomato",11 x 43 x 24,Fruits & Vegetables || Fresh Vegetables
-P0337,Classic Milk Chocolate Candy (Nestle ),"Toffee, Candy & Lollypop",17 x 40 x 30,Snacks & Branded Foods || Chocolates & Candies
-P0339,"Chocolate Bar - Bar One, Charge (Nestle )",Chocolates,12 x 16 x 11.8,Snacks & Branded Foods || Chocolates & Candies
-P0340,Lettuce - Romaine (Fresho),Chocolates,5 x 20 x 13,Snacks & Branded Foods || Chocolates & Candies
+P0337,Classic Milk Chocolate Candy (Nestle ),"Toffee, Candy & Lollypop",17 x 40 x 30,Snacks & Sweets Foods || Chocolates & Candies
+P0339,"Chocolate Bar - Bar One, Charge (Nestle )",Chocolates,12 x 16 x 11.8,Snacks & Sweets Foods || Chocolates & Candies
+P0340,Lettuce - Romaine (Fresho),Chocolates,5 x 20 x 13,Snacks & Sweets Foods || Chocolates & Candies
 P0341,Lettuce - Red (Fresho),Exotic Vegetables,8.5 x 29.1 x 5.8,Fruits & Vegetables || Fresh Vegetables
 P0342,Leeks (Fresho),Exotic Vegetables,4.5 x 14 x 15,Fruits & Vegetables || Fresh Vegetables
 P0343,Raw Mango (Fresho),Exotic Vegetables,3 x 6 x 4,Fruits & Vegetables || Fresh Vegetables
@@ -435,10 +435,10 @@ P0462,Yum Yum - Pineapple Cake (Milk Ma),Tea Cakes & Slice Cakes,5 x 8.5 x 5,"Ba
 P0463,Yum Yum - Chocolate Cake (Milk Ma),Tea Cakes & Slice Cakes,5 x 28 x 16,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0464,Millet Based Nutrition Bar - Classic (Ah!rogya Bar),Tea Cakes & Slice Cakes,2.3 x 20 x 10.5,"Bakery, Cakes & Dairy || Cakes & Pastries"
 P0465,Kitkat 3 Fingers (Nestle ),Cereal & Granola Bars,,Gourmet & World Food || Cereals & Breakfast
-P0466,Creamy Milky & Cocoa Chocolate With Extruded Rice (Kinder),Chocolates,4.5 x 7 x 7,Snacks & Branded Foods || Chocolates & Candies
-P0467,Choco Deck - French Dessert Inspired Layered Bar (Fabelle),Chocolates,2.5 x 17 x 7,Snacks & Branded Foods || Chocolates & Candies
-P0468,White Xylitol Sugarfree Spearmint Flavour Chewing Gum - Fliptop (Happydent ),Chocolates,5 x 42 x 12,Snacks & Branded Foods || Chocolates & Candies
-P0469,Rusk - Original (Elite),Mints & Chewing Gum,3.8 x 21.6 x 35,Snacks & Branded Foods || Chocolates & Candies
+P0466,Creamy Milky & Cocoa Chocolate With Extruded Rice (Kinder),Chocolates,4.5 x 7 x 7,Snacks & Sweets Foods || Chocolates & Candies
+P0467,Choco Deck - French Dessert Inspired Layered Bar (Fabelle),Chocolates,2.5 x 17 x 7,Snacks & Sweets Foods || Chocolates & Candies
+P0468,White Xylitol Sugarfree Spearmint Flavour Chewing Gum - Fliptop (Happydent ),Chocolates,5 x 42 x 12,Snacks & Sweets Foods || Chocolates & Candies
+P0469,Rusk - Original (Elite),Mints & Chewing Gum,3.8 x 21.6 x 35,Snacks & Sweets Foods || Chocolates & Candies
 P0470,Multigrain Biscuit (Chai Point),Rusks,7 x 18 x 19,"Bakery, Cakes & Dairy || Cookies, Rusk & Khari"
 P0471,Masala Biscuit (Chai Point),"Bakery Biscuits, Cookies",14 x 35 x 14,"Bakery, Cakes & Dairy || Cookies, Rusk & Khari"
 P0473,Amaranthus - Red (Fresho),"Bakery Biscuits, Cookies",5 x 5 x 5,"Bakery, Cakes & Dairy || Cookies, Rusk & Khari"
@@ -586,8 +586,8 @@ P0623,Powder - Tamarind Rice (Annapoorna),Whole Spices,8.2 x 8.2 x 8.2,"Foodgrai
 P0625,Capsicum - Diced (Fresho),Blended Masalas,4 x 4 x 36.5,"Foodgrains, Oil & Masala || Masalas & Spices"
 P0626,Flavoured Milk - Pista (Nandini),Cut & Peeled Veggies,8 x 10 x 8,Fruits & Vegetables || Cuts & Sprouts
 P0627,3 Layer Gum - Sugarfreee Strawberry Flavour (Center Fresh),"Flavoured, Soya Milk",1 x 1 x 1,"Bakery, Cakes & Dairy || Dairy"
-P0628,3 Layer Gum - Sugarfreee Peppermint Flavour (Center Fresh),"Toffee, Candy & Lollypop",3 x 18 x 7,Snacks & Branded Foods || Chocolates & Candies
-P0629,Methi/Menthya Dana - Whole (Catch),"Toffee, Candy & Lollypop",5.7 x 17.5 x 5.7,Snacks & Branded Foods || Chocolates & Candies
+P0628,3 Layer Gum - Sugarfreee Peppermint Flavour (Center Fresh),"Toffee, Candy & Lollypop",3 x 18 x 7,Snacks & Sweets Foods || Chocolates & Candies
+P0629,Methi/Menthya Dana - Whole (Catch),"Toffee, Candy & Lollypop",5.7 x 17.5 x 5.7,Snacks & Sweets Foods || Chocolates & Candies
 P0630,Rai - Whole (Catch),Whole Spices,,"Foodgrains, Oil & Masala || Masalas & Spices"
 P0631,Purepet Wet Cat Food - Real Tuna and Chicken Liver in Gravy (Purepet),Whole Spices,6 x 12 x 6,"Foodgrains, Oil & Masala || Masalas & Spices"
 P0632,Wet Dog Food - Chicken & Vegetable Chunks In Gravy (Purepet),Pet Meals & Treats,36.5 x 38 x 57,"Kitchen, Garden & Pets || Pet Food & Accessories"
@@ -686,7 +686,7 @@ P0731,Corn Twist - Pizza (Makino),Blended Masalas,8 x 18 x 8,"Foodgrains, Oil & 
 P0732,Winkin' Cow Vanillicious Thick Milkshake (Britannia),"Healthy, Baked Snacks",4.5 x 18.2 x 4.5,"Gourmet & World Food || Snacks, Dry Fruits, Nuts"
 P0733,KitKat Chocolate Wafer Bar - 4 Fingers Pack (Nestle ),"Flavoured, Soya Milk",2 x 4 x 9,"Bakery, Cakes & Dairy || Dairy"
 P0735,KitKat Chocolate Wafer Bar - 4 Fingers Pack (Nestle ),Chocolates,5 x 22.5 x 6.1,Snacks & Branded Foods || Biscuits & Cookies
-P0736,Organic Seeds - Black Mustard/Sasive (Organic Tattva),Chocolates,70 x 165 x 36,Snacks & Branded Foods || Chocolates & Candies
+P0736,Organic Seeds - Black Mustard/Sasive (Organic Tattva),Chocolates,70 x 165 x 36,Snacks & Sweets Foods || Chocolates & Candies
 P0737,Organic Seeds - Brown Mustard/Sasive (Organic Tattva),Organic Masalas & Spices,2 x 25 x 9,"Foodgrains, Oil & Masala || Organic Staples"
 P0738,Fevicol MR Angular Tip (Pidilite),Organic Masalas & Spices,3.5 x 8.5 x 3.5,"Foodgrains, Oil & Masala || Organic Staples"
 P0739,Haldi Milk (mother dairy),"Scissor, Glue & Tape",8.5 x 9 x 8.5,Cleaning & Household || Stationery
